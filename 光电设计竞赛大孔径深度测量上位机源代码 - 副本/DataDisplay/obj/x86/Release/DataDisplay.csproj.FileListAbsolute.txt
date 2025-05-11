@@ -1,0 +1,145 @@
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\bin\Release\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\bin\Release\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Release\DataDisplay.FormCave.resources
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Release\DataDisplay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Release\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Release\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Release\DataDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Release\DataDisplay.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Release\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Release\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\bin\Release\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\bin\Release\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Release\DataDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Release\DataDisplay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Release\DataDisplay.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Release\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Release\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\bin\Release\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\bin\Release\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Release\DataDisplay.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Release\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Release\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\bin\Release\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\bin\Release\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Release\DataDisplay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Release\DataDisplay.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Release\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Release\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\bin\Release\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\bin\Release\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Release\DataDisplay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Release\DataDisplay.csprojResolveAssemblyReference.cache
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\bin\Release\DataDisplay.exe
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\bin\Release\DataDisplay.pdb
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\bin\Release\ZedGraph.dll
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\obj\x86\Release\DataDisplay.csproj.AssemblyReference.cache
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\obj\x86\Release\Interop.ADOX.dll
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\obj\x86\Release\DataDisplay.csproj.ResolveComReference.cache
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\obj\x86\Release\DataDisplay.csproj.GenerateResource.cache
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\obj\x86\Release\DataDisplay.csproj.CoreCompileInputs.cache
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\obj\x86\Release\DataDisplay.csproj.CopyComplete
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\obj\x86\Release\DataDisplay.exe
+D:\2022bysj\烟叶设计\DataDisplay Beta8\DataDisplay\obj\x86\Release\DataDisplay.pdb
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\bin\Release\DataDisplay.exe
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\bin\Release\DataDisplay.pdb
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\bin\Release\ZedGraph.dll
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\obj\x86\Release\DataDisplay.csproj.AssemblyReference.cache
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\obj\x86\Release\Interop.ADOX.dll
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\obj\x86\Release\DataDisplay.csproj.ResolveComReference.cache
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\obj\x86\Release\DataDisplay.csproj.GenerateResource.cache
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\obj\x86\Release\DataDisplay.csproj.CoreCompileInputs.cache
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\obj\x86\Release\DataDisplay.csproj.CopyComplete
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\obj\x86\Release\DataDisplay.exe
+D:\2022bysj\烟叶设计\烟叶上位机\DataDisplay\obj\x86\Release\DataDisplay.pdb
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\bin\Release\DataDisplay.exe
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\bin\Release\DataDisplay.pdb
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\bin\Release\ZedGraph.dll
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Release\DataDisplay.csproj.AssemblyReference.cache
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Release\Interop.ADOX.dll
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Release\DataDisplay.csproj.ResolveComReference.cache
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Release\DataDisplay.csproj.GenerateResource.cache
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Release\DataDisplay.csproj.CoreCompileInputs.cache
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Release\DataDisplay.csproj.CopyComplete
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Release\DataDisplay.exe
+C:\2047bysj\上位机\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Release\DataDisplay.pdb
+C:\00ds\二维PSD测试\DataDisplay\bin\Release\DataDisplay.exe
+C:\00ds\二维PSD测试\DataDisplay\bin\Release\DataDisplay.pdb
+C:\00ds\二维PSD测试\DataDisplay\bin\Release\ZedGraph.dll
+C:\00ds\二维PSD测试\DataDisplay\obj\x86\Release\DataDisplay.csproj.AssemblyReference.cache
+C:\00ds\二维PSD测试\DataDisplay\obj\x86\Release\Interop.ADOX.dll
+C:\00ds\二维PSD测试\DataDisplay\obj\x86\Release\DataDisplay.csproj.ResolveComReference.cache
+C:\00ds\二维PSD测试\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+C:\00ds\二维PSD测试\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+C:\00ds\二维PSD测试\DataDisplay\obj\x86\Release\DataDisplay.csproj.GenerateResource.cache
+C:\00ds\二维PSD测试\DataDisplay\obj\x86\Release\DataDisplay.csproj.CoreCompileInputs.cache
+C:\00ds\二维PSD测试\DataDisplay\obj\x86\Release\DataDisplay.csproj.CopyComplete
+C:\00ds\二维PSD测试\DataDisplay\obj\x86\Release\DataDisplay.exe
+C:\00ds\二维PSD测试\DataDisplay\obj\x86\Release\DataDisplay.pdb
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\bin\Release\DataDisplay.exe
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\bin\Release\DataDisplay.pdb
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\bin\Release\ZedGraph.dll
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\obj\x86\Release\DataDisplay.csproj.AssemblyReference.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\obj\x86\Release\Interop.ADOX.dll
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\obj\x86\Release\DataDisplay.csproj.ResolveComReference.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\obj\x86\Release\DataDisplay.csproj.GenerateResource.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\obj\x86\Release\DataDisplay.csproj.CoreCompileInputs.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\obj\x86\Release\DataDisplay.csproj.CopyComplete
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\obj\x86\Release\DataDisplay.exe
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛\DataDisplay\obj\x86\Release\DataDisplay.pdb
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\bin\Release\DataDisplay.exe
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\bin\Release\DataDisplay.pdb
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\bin\Release\ZedGraph.dll
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\obj\x86\Release\DataDisplay.csproj.AssemblyReference.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\obj\x86\Release\Interop.ADOX.dll
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\obj\x86\Release\DataDisplay.csproj.ResolveComReference.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\obj\x86\Release\DataDisplay.csproj.GenerateResource.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\obj\x86\Release\DataDisplay.csproj.CoreCompileInputs.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\obj\x86\Release\DataDisplay.csproj.CopyComplete
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\obj\x86\Release\DataDisplay.exe
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛成功\DataDisplay\obj\x86\Release\DataDisplay.pdb
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\bin\Release\DataDisplay.exe
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\bin\Release\DataDisplay.pdb
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\bin\Release\ZedGraph.dll
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Release\DataDisplay.csproj.AssemblyReference.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Release\Interop.ADOX.dll
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Release\DataDisplay.csproj.ResolveComReference.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Release\DataDisplay.FormMain.resources
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Release\DataDisplay.Properties.Resources.resources
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Release\DataDisplay.csproj.GenerateResource.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Release\DataDisplay.csproj.CoreCompileInputs.cache
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Release\DataDisplay.csproj.CopyComplete
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Release\DataDisplay.exe
+D:\2025年光电设计竞赛\大孔径深度测量\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Release\DataDisplay.pdb

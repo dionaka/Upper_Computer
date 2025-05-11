@@ -1,0 +1,111 @@
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\bin\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\bin\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Debug\DataDisplay.FormMain.resources
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Debug\DataDisplay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Debug\DataDisplay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\obj\x86\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay\DataDisplay\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\DataDisplay  Alpha2\DataDisplay\obj\x86\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay  Alpha2\DataDisplay\obj\x86\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay  Alpha2\DataDisplay\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DataDisplay  Alpha2\DataDisplay\obj\x86\Debug\DataDisplay.FormMain.resources
+C:\Users\Administrator\Desktop\DataDisplay  Alpha2\DataDisplay\obj\x86\Debug\DataDisplay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataDisplay  Alpha2\DataDisplay\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\DataDisplay  Alpha2\DataDisplay\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\DataDisplay  Alpha2\DataDisplay\bin\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay  Alpha2\DataDisplay\bin\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay  Alpha2\DataDisplay\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\bin\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\bin\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Debug\DataDisplay.FormMain.resources
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Debug\DataDisplay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Debug\DataDisplay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\DataDisplay  Alpha3\DataDisplay\obj\x86\Debug\DataDisplay.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Debug\DataDisplay.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\bin\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\bin\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Debug\DataDisplay.FormMain.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Debug\DataDisplay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\DataDisplay Beta1\DataDisplay\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Debug\DataDisplay.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\bin\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\bin\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Debug\DataDisplay.FormMain.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Debug\DataDisplay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Debug\DataDisplay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DataDisplay Beta3\DataDisplay\obj\x86\Debug\DataDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Debug\DataDisplay.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\bin\Debug\DataDisplay.exe
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\bin\Debug\DataDisplay.pdb
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Debug\DataDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Debug\DataDisplay.FormMain.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Debug\DataDisplay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataDisplay Beta4\DataDisplay\obj\x86\Debug\DataDisplay.csproj.GenerateResource.Cache
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\bin\Debug\DataDisplay.exe
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\bin\Debug\DataDisplay.pdb
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\bin\Debug\ZedGraph.dll
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Debug\DataDisplay.csproj.AssemblyReference.cache
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Debug\Interop.ADOX.dll
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Debug\DataDisplay.csproj.ResolveComReference.cache
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Debug\DataDisplay.FormMain.resources
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Debug\DataDisplay.Properties.Resources.resources
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Debug\DataDisplay.csproj.GenerateResource.cache
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Debug\DataDisplay.csproj.CoreCompileInputs.cache
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Debug\DataDisplay.csproj.CopyComplete
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Debug\DataDisplay.exe
+C:\00ds\烟叶上位机 - 副本 (3)\DataDisplay\obj\x86\Debug\DataDisplay.pdb
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\bin\Debug\DataDisplay.exe.config
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\bin\Debug\DataDisplay.exe
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\bin\Debug\DataDisplay.pdb
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\bin\Debug\ZedGraph.dll
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\DataDisplay.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\DataDisplay.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\DataDisplay.FormMain.resources
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\DataDisplay.Properties.Resources.resources
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\DataDisplay.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\DataDisplay.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\DataDisp.AE03FD55.Up2Date
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\DataDisplay.exe
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\DataDisplay.pdb
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\bin\Debug\DataDisplay.exe.manifest
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\bin\Debug\DataDisplay.application
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\DataDisplay.exe.manifest
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码\DataDisplay\obj\x86\Debug\DataDisplay.application
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\bin\Debug\DataDisplay.exe.config
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\bin\Debug\DataDisplay.exe.manifest
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\bin\Debug\DataDisplay.application
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\bin\Debug\DataDisplay.exe
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\bin\Debug\DataDisplay.pdb
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\bin\Debug\ZedGraph.dll
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\DataDisplay.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\DataDisplay.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\DataDisplay.FormMain.resources
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\DataDisplay.Properties.Resources.resources
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\DataDisplay.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\DataDisplay.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\DataDisplay.exe.manifest
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\DataDisplay.application
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\DataDisp.AE03FD55.Up2Date
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\DataDisplay.exe
+C:\Users\hp\Desktop\光电设计竞赛大孔径深度测量上位机源代码 - 副本\DataDisplay\obj\x86\Debug\DataDisplay.pdb
